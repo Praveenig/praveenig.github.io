@@ -1,0 +1,22 @@
+.box {
+    background-color: aqua;
+    height: 66%;
+    margin: 66px;
+    border: 5px dotted saddlebrown;
+    padding-left: 88px; 
+    
+}
+.box5 {
+    height: 56px;
+    width: 60px;
+    margin-left: 6px;
+    border: 6px solid salmon;
+
+}
+    .box6{
+        height: 65px;
+        width: 66px;
+        margin: 5px;
+        border: 6px solid red;
+      
+    }
